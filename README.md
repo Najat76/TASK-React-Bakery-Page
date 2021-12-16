@@ -1,28 +1,40 @@
-# TASK-NAME
+### Frontend
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+Create a home page for your website.
 
-## Instructions
+#### Setup
 
-Add instructions here. This is github flavoured markdown so you can be as creative as you want. Add code snippets, images, gifs, checkboxes, anything you want.
+1. Choose a theme for your shop. Here are some examples: restaurant, bakery, pharmacy, bookstore, etc.
+2. Create your React app:
 
-### 1. Extract Components
+    ```shell
+    $ npx create-react-app <app-name>
+    ```
+3. Go to [Github](https://github.com/new) and create a new repository for your shop.
+4. Initialize your repository locally, then push it to your new repository. 
 
-- [ ] Look at the html in `index.html`
-- [ ] Move it into `App.js`
-- [ ] Do you see those cards? Can you turn them into a component??
+#### Home Page
 
-It should look like this:
+1. In `App.js`, remove the logo import at the top and delete all the JSX inside the return.
+2. Give your website a title, a description and add an image.
+3. Change the images' dimensions if needed. 
+4. Center your title and description.
+5. You don't have to stick to our design. Be creative!
 
-![screenshot](https://tenor.com/xNjE.gif)
+#### Website Name and Icon
 
-### 2. Do the thing
+At the moment, your website's tab looks like this:
 
-Explanation of the thing and why we're about to do it. Cool right?
+![Browser tab](https://i.imgur.com/IWtEgW6.png)
 
-- [ ] Make a `store.js` file
-- [ ] Copy + Paste broken code:  
-  ```js
-  console.log("lol");
-  ```
-- [ ] Have an explanation ready for when Zainab interrogates you
+1. Change the title to a name of your choice, your shop's name for example.
+2. Change the image to your shop's logo or any image of your choice.
+
+#### Github
+
+1. Add, commit and push your changes.
+
+
+Here's an **example** of what your website would look like.
+
+![Cookieshop example](https://i.imgur.com/koHR5nm.png)
