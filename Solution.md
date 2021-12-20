@@ -2,7 +2,7 @@
 
 1. We will use `npm` to create our React app, manage all the dependencies and run our application.
 
-2. To create a React application, we will run the following command from `yarn`. We will be creating a cookie shop website, so I'll call my app `cookieshop`. Keep in mind that capital letters are not allowed in the app name.
+2. To create a React application, we will run the following command from `npm`. We will be creating a cookie shop website, so I'll call my app `cookieshop`. Keep in mind that capital letters are not allowed in the app name.
 
    ```shell
    $ npx create-react-app cookieshop
