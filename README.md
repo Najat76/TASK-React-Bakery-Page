@@ -38,4 +38,4 @@ At the moment, your website's tab looks like this:
 Here's an **example** of what your website would look like.
 
 
-![Cookieshop example](https://user-images.githubusercontent.com/8784343/149663935-3f5f41de-e1bd-436b-9308-d519d6e7f1c2.png)
+![Cookieshop example](https://user-images.githubusercontent.com/8784343/149664015-659c459e-f475-4d37-8ce4-cb702aed800d.png)
