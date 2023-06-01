@@ -1,0 +1,52 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.productsBox {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  margin: 10pt;
+}
+
+.title {
+  margin-top: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25pt;
+  font-weight: bold;
+  color: black;
+}
+
+.img1 {
+  width: 300px;
+  height: 300px;
+  border-radius: 30px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+}
+
+.img2 {
+  width: 200px;
+  height: 200px;
+  border: 2pt;
+  border-style: solid;
+  border-color: rgb(10, 18, 18);
+  border-radius: 20px;
+}
+
+.paragraph {
+  font-size: 16pt;
+  text-align: center;
+  margin-left: 80pt;
+  margin-right: 80pt;
+}
+
+.text {
+  font-weight: bold;
+  font-size: 14pt;
+  font-family: Arial, Helvetica, sans-serif;
+}
